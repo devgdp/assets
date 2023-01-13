@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="57" viewBox="0 0 88 57">
+  <g id="Grupo_16169" data-name="Grupo 16169" transform="translate(-0.348 0.45)">
+    <g id="Retângulo_6233" data-name="Retângulo 6233" transform="translate(0.348 -0.45)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="88" height="57" rx="28.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="87" height="56" rx="28" fill="none"/>
+    </g>
+    <text id="Sair" transform="translate(24.348 36.55)" fill="#fff" font-size="22" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Sair</tspan></text>
+  </g>
+</svg>

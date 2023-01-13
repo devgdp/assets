@@ -1,0 +1,12 @@
+<svg id="Grupo_16167" data-name="Grupo 16167" xmlns="http://www.w3.org/2000/svg" width="138.677" height="28.906" viewBox="0 0 138.677 28.906">
+  <g id="Grupo_16166" data-name="Grupo 16166" transform="translate(47.963 14.629)">
+    <g id="Grupo_16147" data-name="Grupo 16147">
+      <line id="Linha_16" data-name="Linha 16" x2="89.213" fill="none" stroke="#344552" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linha_17" data-name="Linha 17" x2="61.683" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+  </g>
+  <g id="Icon_ionic-ios-volume-low" data-name="Icon ionic-ios-volume-low" transform="translate(0 0)">
+    <path id="Caminho_134" data-name="Caminho 134" d="M28.473,10.331a2,2,0,0,0-.89-.206,2.068,2.068,0,0,0-1.29.452l-8.414,6.775H11.065A2.071,2.071,0,0,0,9,19.416V29.74A2.071,2.071,0,0,0,11.065,31.8h6.814l8.414,6.775a2.1,2.1,0,0,0,1.29.452,2,2,0,0,0,.89-.206,2.064,2.064,0,0,0,1.174-1.858V12.19A2.036,2.036,0,0,0,28.473,10.331Z" transform="translate(-9 -10.125)" fill="#fff"/>
+    <path id="Caminho_135" data-name="Caminho 135" d="M26.113,13.049a1.519,1.519,0,0,0-2.168-.013,1.562,1.562,0,0,0-.013,2.194,10.359,10.359,0,0,1,2.942,7.3h0a10.4,10.4,0,0,1-2.942,7.3,1.562,1.562,0,0,0,.013,2.194,1.517,1.517,0,0,0,1.071.452,1.536,1.536,0,0,0,1.1-.465,13.468,13.468,0,0,0,3.82-9.472h-.026A13.439,13.439,0,0,0,26.113,13.049Z" transform="translate(3.103 -8.068)" fill="#fff"/>
+  </g>
+</svg>

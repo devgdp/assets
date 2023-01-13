@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="57" viewBox="0 0 224 57">
+  <g id="Grupo_16176" data-name="Grupo 16176" transform="translate(0 0.45)">
+    <rect id="Retângulo_6232" data-name="Retângulo 6232" width="224" height="57" rx="28.5" transform="translate(0 -0.45)" fill="#de4a2a"/>
+    <g id="Grupo_16386" data-name="Grupo 16386" transform="translate(27.341 12.847)">
+      <text id="Ver_do_início" data-name="Ver do início" transform="translate(33.412 23)" fill="#fff" font-size="22" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Ver do início</tspan></text>
+      <path id="Icon_awesome-play" data-name="Icon awesome-play" d="M18.255,9.236,3.114.285A2.053,2.053,0,0,0,0,2.061v17.9a2.063,2.063,0,0,0,3.114,1.776l15.141-8.947a2.063,2.063,0,0,0,0-3.553Z" transform="translate(0 3.668)" fill="#fff"/>
+      <path id="Icon_awesome-play-2" data-name="Icon awesome-play" d="M18.255,9.236,3.114.285A2.053,2.053,0,0,0,0,2.061v17.9a2.063,2.063,0,0,0,3.114,1.776l15.141-8.947a2.063,2.063,0,0,0,0-3.553Z" transform="translate(0 3.668)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
